@@ -1,0 +1,129 @@
+# Rulebook: Sigmar's Trial (Version 1.0)
+
+## Game Overview:
+Sigmar’s Trial is a turn-based, card-and-dice strategy game for 2–4 players. Each player represents a Champion of the Realm, seeking to gain the favor of the god Sigmar by completing Trials and gathering Valor Points.
+
+---
+
+## Objective:
+Be the first player to reach **30 Valor Points** or have the most points after 10 full rounds.
+
+---
+
+## Setup:
+- Each player starts with:
+  - 5 Action Cards drawn from the main deck.
+  - 1 Champion Token placed on the Trial Path.
+  - 1 Fate Die (6-sided).
+- Shuffle and place the following decks in the center:
+  - Trial Deck (face-down)
+  - Action Deck
+  - Fate Deck
+
+---
+
+## Turn Structure:
+Each player's turn consists of 4 phases:
+
+1. **Draw Phase**:
+   - Draw 1 Action Card.
+   - If fewer than 3 Trials are active, draw and reveal 1 Trial Card.
+
+2. **Action Phase**:
+   - Choose **one** of the following:
+     - Attempt a Trial.
+     - Use an Action Card.
+     - Rest (skip turn to draw 2 Action Cards instead of 1 next turn).
+     - Engage another player in a Duel (only if adjacent on Trial Path).
+
+3. **Roll Phase**:
+   - If attempting a Trial or a Duel, roll the Fate Die.
+   - Trials have a difficulty (e.g., “Roll 4 or higher to succeed”).
+   - Modifiers from cards or Champion Abilities apply.
+
+4. **Resolution Phase**:
+   - If Trial is successful: gain Valor Points as listed.
+   - If failed: discard 1 Action Card (if possible).
+   - Duel winner steals 1 Action Card or 2 Valor Points from loser.
+
+---
+
+## Trial Cards:
+Each Trial Card has:
+- A **Name** (e.g., “Riddle of Flames”)
+- A **Difficulty** (number to roll or exceed)
+- A **Reward** (Valor Points)
+- A **Type** (Mental, Physical, Divine)
+
+---
+
+## Action Cards:
+Types of Action Cards include:
+- **Boosts**: Add +1 or +2 to rolls.
+- **Sabotage**: Lower opponent’s roll or block card use.
+- **Heal**: Regain lost cards or undo Duel damage.
+- **Teleport**: Move Champion on Trial Path.
+
+You can play **one Action Card per turn**, unless you have a special ability or Fate Card that allows otherwise.
+
+---
+
+## Fate Cards (Optional Deck):
+Fate Cards introduce randomness. Draw one when:
+- You roll a natural 6.
+- You land on a Fate Rune space.
+
+Examples:
+- “Blessing of Sigmar”: Succeed automatically in next Trial.
+- “Curse of the Moon”: All players skip their next Draw Phase.
+
+---
+
+## Special Rules:
+
+- **Champion Abilities**: Each Champion has a passive trait (e.g., reroll failed Trials once per game).
+- **The Trial Path**: Has 12 spaces, some marked with special symbols:
+  - ⚔️ = Duel Zone
+  - ✨ = Draw Fate Card
+  - 🔥 = Instant Trial (must attempt one)
+
+- **Max Hand Size**: 7 Action Cards. Discard extras at end of turn.
+
+- **Valor Cap**: You cannot gain more than 5 Valor Points from a single Trial.
+
+---
+
+## Winning the Game:
+- Reach **30 Valor Points**, OR
+- Have the most points after 10 full rounds.
+- Tie? The player with the most Trials completed wins.
+
+---
+
+## Clarifications:
+
+- You cannot use more than one Boost per roll unless specified.
+- You cannot engage in a Duel if you used an Action Card that turn.
+- Fate Cards override normal rules when applicable.
+
+---
+
+## Quick Terms:
+
+- **Trial**: A challenge drawn from the deck to earn Valor Points.
+- **Valor Points**: The scoring system.
+- **Action Card**: Strategic tools to aid or hinder.
+- **Fate Die**: 6-sided die used in Trials and Duels.
+
+---
+
+## Example Turn:
+
+**Player A** draws 1 Action Card.  
+They choose to attempt “Trial of Echoes” (Difficulty 4, Reward 3 Valor).  
+They play a Boost (+1) and roll a 3 → total 4.  
+Success! Player A gains 3 Valor Points and discards the Trial Card.
+
+---
+
+END OF RULEBOOK

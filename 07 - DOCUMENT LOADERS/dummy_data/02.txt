@@ -1,0 +1,23 @@
+Monthly Sales Report - June 2024
+
+Prepared by: Sales Analytics Team
+
+Summary:
+The total sales for June 2024 reached $125,000, marking a 12% increase compared to May 2024. The electronics and home appliances categories contributed most significantly to this growth.
+
+Key Highlights:
+- Electronics sales increased by 18%.
+- Home appliances sales rose by 15%.
+- Customer satisfaction rating improved to 4.7/5.
+
+Top Performing Products:
+1. Smart LED TV - 350 units sold
+2. Wireless Headphones - 280 units sold
+3. Air Purifier - 210 units sold
+
+Recommendations:
+- Increase inventory for top-performing products.
+- Launch targeted promotions for underperforming categories.
+- Continue monitoring customer feedback for service improvements.
+
+End of Report
