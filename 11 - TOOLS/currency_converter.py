@@ -11,7 +11,7 @@ import json
 
 env_path = Path(__file__).resolve().parent.parent / '.env'
 load_dotenv(dotenv_path=env_path)
-API_KEY = '9d4afa0c37a7738f98d36b63'
+API_KEY = 'PASTE YOUR API KEY FROM EXCHANGE RATE API WEBSITE'
 
 
 model = ChatGroq(model="llama-3.3-70b-versatile")
